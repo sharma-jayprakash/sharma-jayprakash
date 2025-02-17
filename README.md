@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sharma-jayprakash
-- 👀 I’m interested in full stack engineer 
-- 🌱 I’m currently learning frontend and backend techonogies.
-- 💞️ I’m looking to collaborate on  some cool project .
+
 - 📫  reach me on gmail mail.iitianjayprakash@gmail.com 
 - 😄 he/him 
 - ⚡ 
